@@ -1,5 +1,5 @@
-package com.example.demo.Repositorios;
-import com.example.demo.modulos.Usuario;
+package com.Objects.Repositorios;
+import com.Objects.modulos.Usuario;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

@@ -1,4 +1,4 @@
-package com.example.demo.modulos;
+package com.Objects.modulos;
 
 import java.util.Date;
 import org.springframework.data.annotation.Id;

@@ -1,6 +1,6 @@
-package com.example.demo.Controladores;
-import com.example.demo.Repositorios.FacturaRepository;
-import com.example.demo.modulos.Factura;
+package com.Objects.Controladores;
+import com.Objects.Repositorios.FacturaRepository;
+import com.Objects.modulos.Factura;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
