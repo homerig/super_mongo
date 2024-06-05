@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.modulos;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -42,7 +42,6 @@ public class Producto {
 	public void setPrecio(double precio) {
 		this.precio = precio;
 	}
-	
 	
 
 }
