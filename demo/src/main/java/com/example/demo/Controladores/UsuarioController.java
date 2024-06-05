@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.demo.Controladores;
+import com.example.demo.Repositorios.UsuarioRepository;
+import com.example.demo.modulos.Usuario;
 
 import java.util.List;
 
