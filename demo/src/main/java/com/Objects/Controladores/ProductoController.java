@@ -1,6 +1,6 @@
-package com.example.demo.Controladores;
-import com.example.demo.modulos.Producto;
-import com.example.demo.Repositorios.ProductoRepository;
+package com.Objects.Controladores;
+import com.Objects.modulos.Producto;
+import com.Objects.Repositorios.ProductoRepository;
 
 import java.util.List;
 
