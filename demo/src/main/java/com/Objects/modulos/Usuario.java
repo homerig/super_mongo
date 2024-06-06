@@ -1,10 +1,9 @@
 package com.Objects.modulos;
 
-import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection="Usuario")
-
+@Document(collection= "usuarios")
 public class Usuario {
 	@Id
 	private String id;
@@ -29,4 +28,6 @@ public class Usuario {
 		this.email = email;
 	}
 	
+
+
 }
